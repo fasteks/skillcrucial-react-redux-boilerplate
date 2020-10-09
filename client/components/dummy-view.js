@@ -12,6 +12,7 @@ const Dummy = () => {
           This is dummy component
           <Link to="/dashboard">Go to dashboard</Link>
           hello darkness my old friend
+          same new one line just in case
         </div>
       </div>
     </div>
