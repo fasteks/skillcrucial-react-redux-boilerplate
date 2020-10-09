@@ -11,6 +11,7 @@ const Dummy = () => {
         <div className="bg-indigo-800 hover:text-red-500 text-white font-bold rounded-lg border shadow-lg p-10">
           This is dummy component
           <Link to="/dashboard">Go to dashboard</Link>
+          hello darkness my old friend
         </div>
       </div>
     </div>
